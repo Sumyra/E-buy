@@ -1,0 +1,309 @@
+@media(min-width: 768px) and (max-width:992px){
+    .heading h4{
+        font-size: 25px;
+    }
+    
+    .button{
+        font-size: 14px;
+    }
+    nav .Menu ul li a {
+        font-size: 12px;
+        margin: 5px 5px;
+
+    }
+    nav .social ul li{
+        margin-top: 12px;
+    }
+    nav .social ul li span{
+        margin: 5px 3px;
+    }
+    #banner .banner_Cnt{
+        margin: 100px 0;
+    }
+    #banner .banner_Cnt *{
+        margin-top: 10px;
+    }
+    #banner .banner_Cnt h2{
+    font-size: 55px;
+    }
+    #banner .banner_Cnt h3{
+        font-size: 25px;
+    }
+    #banner .banner_Cnt p{
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    #banner_cart h4{
+        font-size: 20px;
+    }
+    #banner_cart p{
+    font-size: 12px;
+    }
+    #banner .banner_slider{
+        height: 500px;
+    }
+    #Cards .Card_container:nth-last-child(1){
+        margin: auto;
+        margin-top: 10px;
+    }
+    #Cards .Card_container .Card_img  .overlay .overlay_cnt h5{
+        font-size: 24px;
+        }
+        #Cards .Card_container .Card_img  .overlay .overlay_cnt h6{
+            font-size: 18px;
+        }
+        #latest .lat_container .lat_card .overlay01 ul li span,
+#Product .prod_container .prod_card .overlay01 ul li span{
+    font-size: 26px;
+}
+#new_prod .countdown ul li{
+    font-size: 16px;
+    margin: 0 10px;
+
+}
+#new_prod .new_cnt h4{
+    font-size: 16px;
+}
+#new_prod .new_cnt h3{
+    font-size: 25px;
+}
+#new_prod .new_cnt p{
+    font-size: 12px;
+    margin: 5px 0;
+
+}
+#testimonial .test_container .test_card h5{
+    font-size: 18px;
+}
+#testimonial .test_container .test_card h6{
+    color: white;
+    font-size: 14px;
+}
+#testimonial .test_container .test_card p{
+    font-size: 12px;
+    margin-top: 20px;
+}
+#Blog{
+    padding: 50px 0;
+}
+
+#Blog .blog_container .blog_card{
+    margin: 30px 0;
+}
+#Blog .blog_container .blog_card h4{
+    font-size: 16px;
+margin-top: 10px;}
+#Blog .blog_container .blog_card p{
+    font-size: 12px;
+}
+#Blog .blog_container .blog_card h6{
+    font-size: 14px;
+margin-top: 10px;}
+#Blog .blog_container .blog_card .blog_img:hover .Overlay{
+    opacity: 80%;
+    visibility: visible;
+}
+#Blog .blog_container .blog_card .blog_img .Overlay .overlay_cnt span{
+font-size: 14px;
+}
+#Blog .blog_container .blog_card .blog_img .Overlay .overlay_icon{
+    margin-top: 80px;
+}
+#Blog .blog_container .blog_card .blog_img .Overlay .overlay_cnt1{
+    margin-top: 65px;
+}
+footer{
+    background-color: #222222;
+    padding: 50px 50px;
+}
+footer .footer1 p{
+    font-size: 12px;
+}
+footer h6{
+    font-size: 14px;
+}
+footer .footer2 ul li p{
+    margin: 15px 5px;
+}
+footer .footer2 ul li p span{
+    margin: 0 7px;
+}
+footer .footer3 ul{
+margin-top:15px ;}
+footer .footer4 form{
+    margin: 10px;
+}
+footer .footer4 ul{
+    margin-top: 15px;
+}
+}
+@media(min-width: 320px) and (max-width:600px){
+    nav{
+        text-align: center;
+    }
+    nav .Menu{
+        display: none;
+    }
+    .heading h4{
+        font-size: 18px;
+    }
+    
+    .button{
+        font-size: 12px;
+    }
+    nav .Menu ul li a {
+        font-size: 10px;
+    }
+    nav .social ul li{
+        margin-top: 8px;
+    }
+    #banner .banner_Cnt{
+        margin: 40px 0;
+    }
+    #banner .banner_Cnt h2{
+    font-size: 35px;
+    }
+    #banner .banner_Cnt h3{
+        font-size: 20px;
+    }
+    #banner .banner_Cnt p{
+        font-size: 12px;
+        width: 230px;
+    }
+    #banner_cart h4{
+        font-size: 16px;
+    }
+    #banner_cart p{
+    font-size: 10px;
+    }
+    #banner .banner_slider{
+        height: 400px;
+    }
+    #Cards .Card_container{
+        padding: 10px 10px;
+    }
+    #Cards .Card_container .Card_img  .overlay{
+        inset: 190px 20px 18px 20px;
+        padding: 15px 30px 15px 30px; 
+    }
+    #Cards .Card_container .Card_img  .overlay .overlay_cnt h5{
+        font-size: 24px;}
+        #Cards .Card_container .Card_img  .overlay .overlay_cnt h6{
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        #Cards .Card_container .Card_img  .overlay .overlay_cnt:nth-last-child(1) a{
+            background-color: transparent;
+            border: 1px solid white;
+            font-size: 14px;
+        }
+        #latest .lat_container .lat_card .overlay01 ul li span,
+#Product .prod_container .prod_card .overlay01 ul li span{
+    font-size: 21px;
+}
+#new_prod .countdown ul li{
+    font-size: 14px;
+    margin: 0 5px;
+
+}
+#new_prod .new_cnt h4{
+    font-size: 14px;
+}
+#new_prod .new_cnt h3{
+    font-size: 20px;
+}
+#new_prod .new_cnt p{
+    font-size: 10px;
+}
+#testimonial .test_container .test_card h5{
+    font-size: 18px;
+}
+#testimonial .test_container .test_card h6{
+    color: white;
+    font-size: 12px;
+}
+#testimonial .test_container .test_card p{
+    font-size: 10px;
+}
+#Blog .blog_container .blog_card{
+    margin: 15px 0;
+}
+#Blog .blog_container .blog_card h4{
+    font-size: 14px;
+margin-top: 10px;}
+#Blog .blog_container .blog_card p{
+    font-size: 10px;
+}
+#Blog .blog_container .blog_card h6{
+    font-size: 12px;
+margin-top: 10px;}
+#Blog .blog_container .blog_card .blog_img .Overlay .overlay_cnt span{
+font-size: 12px;
+}
+#Blog .blog_container .blog_card .blog_img .Overlay .overlay_icon{
+    margin-top: 60px;
+}
+#Blog .blog_container .blog_card .blog_img .Overlay .overlay_cnt1{
+    margin-top: 55px;
+}
+footer .footer1 p{
+    font-size: 10px;
+}
+footer h6{
+    font-size: 12px;
+    margin-top: 10px;
+}
+footer .footer2 ul li p{
+    margin: 15px 5px;
+    text-align: left;
+    font-size: 12px;
+}
+footer .footer2 ul li p span{
+    margin: 0 0px;
+}
+footer .footer3 ul li span{
+    font-size: 12px;
+}
+footer .footer3 ul{
+margin-top:15px ;}
+footer .footer3 ul li{
+    color: #dddddd;
+    margin: 5px 0;
+}
+footer .footer3 ul li:hover span{
+    margin-left: 5px;
+    color: #de4644;
+}
+footer .footer4 ul li span{
+    font-size: 12px;
+}
+footer .footer4 ul li{
+   margin: 10px 2px;
+}
+footer .footer3 ul{
+margin-top:15px ;
+text-align: left;
+}
+footer .footer4 input{
+    font-size: 14px;
+    padding: 5px;
+}
+footer .footer4 form{
+margin-top: 15px;}
+footer .footer4 button{
+    margin-left: 0px;
+}
+.copy{
+ padding: 5px 10px;
+ text-align: center;
+}
+.copy_img{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+nav .social{
+    display: none;
+}
+}
